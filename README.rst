@@ -20,7 +20,7 @@ mman
 =================================
 
   |  mman created by MikeTurkey
-  |  Version 0.0.3, 20 Dec 2024
+  |  Version 0.0.3, 24 Nov 2024
   |  2024, COPYRIGHT MikeTurkey, All Right Reserved.
   |  ABSOLUTELY NO WARRANTY.
   |  GPLv3 License including a prohibition clause for AI training.
@@ -118,52 +118,52 @@ Options(manXXYY)
 
 | \--listman
 
-  |   Show the man list of the FreeBSD version name.
+  |   Show the man list of the FreeBSD.
   |   e.g. ls, cp, rm, mv ... 
 
 | \--listman1
 
-  |   Show the man 1 list of the FreeBSD version name.
+  |   Show the man 1 list of the FreeBSD.
   |   man 1: General Commands Manual
 
 | \--listman2
 
-  |   Show the man 2 list of the FreeBSD version name.
+  |   Show the man 2 list of the FreeBSD.
   |   man 2: System Calls Manual
 
 | \--listman3
 
-  |   Show the man 3 list of the FreeBSD version name.
+  |   Show the man 3 list of the FreeBSD.
   |   man 3: Library Functions Manual
 
 | \--listman4
 
-  |   Show the man 4 list of the FreeBSD version name.
+  |   Show the man 4 list of the FreeBSD.
   |   man 4: Kernel Interfaces Manual
 
 | \--listman5
 
-  |   Show the man 5 list of the FreeBSD version name.
+  |   Show the man 5 list of the FreeBSD.
   |   man 5: File Formats Manual
 
 | \--listman6
 
-  |   Show the man 6 list of the FreeBSD version name.
+  |   Show the man 6 list of the FreeBSD.
   |   man 6: Games Manual
 
 | \--listman7
 
-  |   Show the man 7 list of the FreeBSD version name.
+  |   Show the man 7 list of the FreeBSD.
   |   man 7: Miscellaneous Information Manual
 
 | \--listman8
 
-  |   Show the man 8 list of the FreeBSD version name.
+  |   Show the man 8 list of the FreeBSD.
   |   man 8: System Manager's Manual
 
 | \--listman9
 
-  |   Show the man 9 list of the FreeBSD version name.
+  |   Show the man 9 list of the FreeBSD.
   |   man 9: Kernel Developer's Manual
 
 
