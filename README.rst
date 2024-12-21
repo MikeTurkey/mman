@@ -20,7 +20,7 @@ mman
 =================================
 
   |  mman created by MikeTurkey
-  |  Version 0.0.3, 24 Nov 2024
+  |  Version 0.0.4, 21 Dec 2024
   |  2024, COPYRIGHT MikeTurkey, All Right Reserved.
   |  ABSOLUTELY NO WARRANTY.
   |  GPLv3 License including a prohibition clause for AI training.
